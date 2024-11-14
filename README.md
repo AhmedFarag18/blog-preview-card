@@ -16,7 +16,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/">
+    <a href="https://www.frontendmentor.io/solutions/blog-preview-card-pqpB451_ww">
       Challenge
     </a>
   </h3>
